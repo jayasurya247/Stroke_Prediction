@@ -33,7 +33,7 @@ To set up the project environment:
 The models were evaluated based on their accuracy, precision, recall, and F1-score using both original and SMOTE (Synthetic Minority Over-sampling Technique) enhanced datasets to handle class imbalance.
 
 ## Results
-The models' performance can be found in the notebooks under the `notebooks/` directory, showcasing detailed classification reports and accuracy comparisons.
+The models' performance can be found in the notebooks, showcasing detailed classification reports and accuracy comparisons.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](MIT) file for details.
