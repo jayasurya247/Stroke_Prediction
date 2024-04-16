@@ -5,6 +5,7 @@ This repository contains the code for building and evaluating several machine-le
 
 ## Data Description
 Kaggle Link: https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
+
 The dataset includes the following attributes:
 - Gender
 - Age
@@ -36,7 +37,7 @@ The models were evaluated based on their accuracy, precision, recall, and F1-sco
 The models' performance can be found in the notebooks, showcasing detailed classification reports and accuracy comparisons.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](MIT) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
 
 ## Contributors
 - [Jaya Surya Thota](https://github.com/jayasurya247)
